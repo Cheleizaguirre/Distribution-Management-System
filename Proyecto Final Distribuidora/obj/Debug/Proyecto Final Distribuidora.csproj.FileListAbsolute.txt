@@ -1,0 +1,69 @@
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Proyecto Final Distribuidora.exe.config
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Proyecto Final Distribuidora.exe
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Proyecto Final Distribuidora.pdb
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\MySqlConnector.dll
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Buffers.dll
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Memory.dll
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Numerics.Vectors.dll
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\MySqlConnector.xml
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Buffers.xml
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Memory.xml
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Numerics.Vectors.xml
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.csproj.AssemblyReference.cache
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.csproj.SuggestedBindingRedirects.cache
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.ClienteForm.resources
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.FacturaForm.resources
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.Properties.Resources.resources
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.csproj.GenerateResource.cache
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.csproj.CoreCompileInputs.cache
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.csproj.CopyComplete
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.exe
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.pdb
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.MenuFormDBA.resources
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.ClienteFormDBA.resources
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.FacturaFormDBA.resources
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.FacturaFormDBAv2.resources
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.ProductoFormDBAv2.resources
+E:\WU\06 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.DetalleFacturaFormDBA.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Proyecto Final Distribuidora.exe.config
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Proyecto Final Distribuidora.exe
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Proyecto Final Distribuidora.pdb
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\MySqlConnector.dll
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Buffers.dll
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Memory.dll
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Numerics.Vectors.dll
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\MySqlConnector.xml
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Buffers.xml
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Memory.xml
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Numerics.Vectors.xml
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.csproj.AssemblyReference.cache
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.ClienteForm.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.ClienteFormDBA.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.DetalleFacturaFormDBA.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.FacturaForm.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.FacturaFormDBA.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.FacturaFormDBAv2.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.MenuFormDBA.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.ProductoFormDBAv2.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto_Final_Distribuidora.Properties.Resources.resources
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.csproj.GenerateResource.cache
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.csproj.CoreCompileInputs.cache
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto.FD087D63.Up2Date
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.exe
+D:\WU\006 - Sexto Tri\Bases De Datos\Proyecto Final\Proyecto Final Distribuidora\Proyecto Final Distribuidora\obj\Debug\Proyecto Final Distribuidora.pdb
